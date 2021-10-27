@@ -6,10 +6,11 @@
 */
 
 
-prefix = "osdu-self"
+prefix = "osdu-ca"
 
 resource_tags = {
   environment = "Self Managed OSDU"
+  contact = "chabberl"
 }
 
 feature_flag = {
